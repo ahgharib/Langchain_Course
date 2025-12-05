@@ -1,0 +1,10 @@
+Langchain_env/
+*.env
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.h5
+*.keras
+*.pt
+*.pth
